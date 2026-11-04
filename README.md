@@ -12,7 +12,13 @@ Sou desenvolvedor full stack na Inovai, a agência de inovação de Itajubá, e 
 
 ## 📊 Linguagens mais usadas
 
-[![Linguagens mais usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=felipesouzx&langs_count=8&count_private=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+```mermaid
+pie showData
+    "TypeScript" : 95
+    "Outras" : 5
+```
+
+<sub>Estimativa com base no meu principal projeto privado.</sub>
 
 ## 📌 Projetos
 
